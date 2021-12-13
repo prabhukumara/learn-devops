@@ -1,4 +1,4 @@
 services:
   build: productservice
   ports:
-    - "9100:9000"
+    - "9100:9100"

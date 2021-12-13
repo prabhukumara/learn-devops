@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "myapp",
+  "version": "1",
+  "main": "app.js",
+  "description": "simple node web application"
+}
